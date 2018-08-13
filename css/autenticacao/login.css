@@ -1,3 +1,8 @@
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
 .img-left {
     background-image: url("../../imagens/sabri-tuzcu-365440.jpg");
     background-size: cover;
@@ -14,12 +19,13 @@
 }
 
 .right h2 {
-    font-size: 55px;
+    font-size: 38px;
+    font-weight: bold;
     color: rgba(0,0,0,0.6);
 }
 
 .right h3 {
-    font-size: 25px;
+    font-size: 18px;
     color: rgba(0,0,0,0.6);
 }
 
@@ -31,7 +37,11 @@
     width: 100%;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
-    padding-top: 0.7em; 
+    height: 2.4em;
+    border-radius: 5px;
+    border: 1px solid #aaa;
+    outline: none;
+    padding-left: 0.2em;
 }
 
 .login-btn {
