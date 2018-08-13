@@ -1,0 +1,44 @@
+.img-left {
+    background-image: url("../../imagens/sabri-tuzcu-365440.jpg");
+    background-size: cover;
+    min-height: 100vh;
+    padding: 0.001px;
+}
+
+.right {
+    float: right;
+    background-color: white; 
+    min-height: 100vh;
+    width: 35vw;
+    padding: 4em;
+}
+
+.right h2 {
+    font-size: 55px;
+    color: rgba(0,0,0,0.6);
+}
+
+.right label {
+    color: rgba(0,0,0,0.6);
+}
+
+.right input {
+    width: 100%;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    padding-top: 0.7em; 
+}
+
+.login-btn {
+    width: 100%;
+    background-color: #39cc6c;
+    border: none; 
+    border-radius: 4px;
+    padding: 0.6em;
+    color: white;
+}
+
+.hr-divider {
+    margin-top: 2em;
+    margin-bottom: 2em; 
+}
