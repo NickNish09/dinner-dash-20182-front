@@ -1,9 +1,15 @@
+.perfil-form {
+    margin-left: 5em;
+    margin-right: 5em;
+}
+
 .perfil-modal {
     background-image: url("../../imagens/helloquence-61189.jpg");
     background-size: cover;
     height: 60vh;
     padding: 2.2em;
     color: white;
+    margin-bottom: 2em;
 }
 
 .row {
@@ -24,7 +30,7 @@
 }
 
 .perfil-bottom {
-    margin-top: 15em;
+    margin-top: 12em;
 }
 
 .perfil-bottom h1{
