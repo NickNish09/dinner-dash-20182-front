@@ -1,0 +1,132 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.btn-atualizar {
+    margin-top: 1.5em; 
+    width: 65%;
+    background-color: #39cc6c;
+    border: none; 
+    border-radius: 4px;
+    padding: 0.6em;
+    color: white;
+}
+
+.perfil-form {
+    margin-left: 5em;
+    margin-right: 5em;
+    display: flex;
+    flex-direction: row;
+}
+
+.perfil-form-row {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    padding: 1em;
+}
+
+.perfil-form input {
+    width: 100%;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    height: 2.4em;
+    border-radius: 5px;
+    border: 1px solid #aaa;
+    outline: none;
+    padding-left: 0.2em;
+}
+
+.perfil-modal {
+    background-image: url("../../imagens/helloquence-61189.jpg");
+    background-size: cover;
+    height: 60vh;
+    padding: 2.2em;
+    color: white;
+    margin-bottom: 0;
+}
+
+.row {
+    display: flex;
+}
+
+.row h3{
+    font-size: 27px;
+    margin-top: 0 !important;
+    margin-left: 2.9em;
+}
+
+.right-align {
+    margin-left: 60vw;
+}
+
+.right-align a{
+    color: white;
+    text-decoration: white;
+    padding: 0 .5em;
+}
+
+.perfil-bottom {
+    margin-top: 10em;
+}
+
+.perfil-bottom h1{
+    font-size: 66px;
+    line-height: 30px;
+}
+
+.perfil-bottom h3 {
+    font-size: 26px;
+}
+
+.footer {
+    background-color: #d6d6d6;
+    padding: 0.5em;
+    display: flex;
+}
+
+.footer-right {
+    float: right;
+}
+
+.backoffice {
+    margin-top: 5em;
+    margin-left: 2.7em;
+    font-size: 33px;
+    line-height: 24px;
+}
+
+.flex {
+    display: flex;
+}
+
+.link-list {
+    list-style: none;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-left: 2.9em;
+}
+
+.link-list li{
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 .5em;
+}
+
+.link-list li a{
+    text-decoration: none;
+    color: white;
+}
+
+.gray-row {
+    background-color: #373C43;
+    padding: 0.1em;
+}
+
+.content {
+    margin-top: .7em;
+}
